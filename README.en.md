@@ -6,8 +6,8 @@
 
 ## Documentation / Resources
 - [Manual/](说明书/)
-- [2D Drawings/](2D图纸/)
-- [3D Model/](3D模型/)
+- [2D Drawings/](2D/)
+- [3D Model/](3D/)
 - [Performance Curves/](性能曲线/)
 
 ## Quick Start
